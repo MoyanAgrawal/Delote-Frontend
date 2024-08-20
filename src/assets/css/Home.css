@@ -1,0 +1,15 @@
+.mainContent{
+    display: flex;
+    /* align-content: center; */
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.mt{
+    margin-top: 20%;
+}
+
+.image{
+    height:50px;
+    width: 50px;
+}
